@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(roboticaII2025)
+project(robotica_ii_2025)
 
 # Default to C99
 if(NOT CMAKE_C_STANDARD)
